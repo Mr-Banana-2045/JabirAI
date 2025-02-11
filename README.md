@@ -1,7 +1,7 @@
 ## About Jabir
-Developer : Mohammadreza Haghiri
-GITHUB: https://github.com/prp-e
-API : https://openai.jabirproject.org
+Developer : Mohammadreza Haghiri<br>
+GITHUB: https://github.com/prp-e<br>
+API : https://openai.jabirproject.org<br>
 WebSite : http://haghiri75.com, https://blog.jabirproject.org
 
 ## Image
